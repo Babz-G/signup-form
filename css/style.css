@@ -60,10 +60,10 @@ select {
   border-radius: 7px;
   border: 2px solid var(--grey);
 }
-.boldInput {
+/* .boldInput {
   font-weight: bold;
   color: var(--black);
-}
+} */
 
 .free {
   font-size: 1rem;
